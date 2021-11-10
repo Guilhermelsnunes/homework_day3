@@ -26,6 +26,8 @@ months=["Marchtober","January","February","March","April","May","June","July","A
 "September","October","November","December"]
 def number_to_full_month_name(number):
     return months[number]
+# can also return months[number-1] 
+# instead of adding the mythical month of "Marchtober"
 
 def number_to_short_month_name(number):
     return months[number][0:3]
