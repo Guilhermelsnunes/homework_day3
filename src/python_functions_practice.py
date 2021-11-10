@@ -32,3 +32,7 @@ def number_to_short_month_name(number):
 
 def calculate_volume_of_cube(side):
     return side*side*side
+
+def reverse_a_string(string):
+    return string[::-1]#<--- Found that on google :)
+
