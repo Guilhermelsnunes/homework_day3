@@ -40,3 +40,7 @@ def reverse_a_string(string):
 
 def farenheit_to_celsius(temp):
     return (temp-32)*5/9
+
+
+
+    ;akujbsd;ajks d;ajsd
